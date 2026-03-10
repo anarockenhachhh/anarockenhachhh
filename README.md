@@ -1,6 +1,6 @@
 # 👤 Ana Rockenbach
 
-`Desenvolvedora Full-Stack` | `Graduanda em Cibersegurança`
+`Full-Stack Developer` | `Cybersecurity Student`
 
 ---
 
@@ -18,10 +18,10 @@ Aqui compartilho projetos próprios que refletem minha evolução técnica, orga
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-## 📊 Estatísticas
+## 📊 Estatísticas (Teste)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anarockenhachh&show_icons=true&theme=radical&include_all_commits=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anarockenhachh&layout=compact&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mauraluiza&show_icons=true&theme=radical&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauraluiza&layout=compact&theme=radical" width="48%"/>
 </p>
 
 ---
