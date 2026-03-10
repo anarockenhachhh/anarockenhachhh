@@ -14,6 +14,6 @@ Olá! Sou Ana Rockenbach, tenho 23 anos e sou desenvolvedora Full-Stack em forma
 ### 📊 Estatísticas
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=anarockenhachhh&show_icons=true&theme=tokyonight&count_private=true" width="450" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anarockenhachhh&layout=compact&theme=tokyonight" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mauraluiza&show_icons=true&theme=tokyonight&count_private=true" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauraluiza&layout=compact&theme=tokyonight" width="300" />
 </div>
