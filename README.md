@@ -1,11 +1,13 @@
 # 👤 Ana Rockenbach
 
-`Full-Stack Developer` | `Cybersecurity Student`
+`Desenvolvedora Full-Stack` | `Graduanda em Cibersegurança`
 
 ---
 
 ## 📖 Sobre Mim
 Olá! Sou Ana Rockenbach, tenho 23 anos e sou desenvolvedora Full-Stack em formação. Finalizei o curso técnico em Análise e Desenvolvimento de Sistemas (ADS) e atualmente estou cursando o 1º semestre da graduação em Cibersegurança na Anhanguera. 🛡️
+
+Aqui compartilho projetos próprios que refletem minha evolução técnica, organização e boas práticas de programação. Seja bem-vindo(a)!
 
 ## 🛠 Tech Stack
 <p align="left">
@@ -17,7 +19,7 @@ Olá! Sou Ana Rockenbach, tenho 23 anos e sou desenvolvedora Full-Stack em forma
 </p>
 
 ## 📊 Estatísticas
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=anarockenhachh&show_icons=true&theme=radical&include_all_commits=true" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anarockenhachh&layout=compact&theme=radical" width="48%"/>
 </p>
